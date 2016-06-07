@@ -1,0 +1,2 @@
+# passwordmeter
+avaliador de senha
